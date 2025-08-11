@@ -1,24 +1,4 @@
-[10:57 AM, 8/11/2025] 📿: # Hi there 👋 I'm AriRam
-
-💻 *MERN Stack Developer* | 🌱 Currently learning *Full Stack Development*  
-🎓 *BCA Graduate* | Passionate about building scalable and user-friendly applications  
-
----
-
-## 🚀 About Me  
-- 🔭 I’m currently working on *Full Stack Projects*  
-- 🌱 Learning *Backend Optimization* & *Code Refactoring*  
-- 💬 Ask me about *JavaScript, Node.js, Python, MongoDB*  
-- 📫 How to reach me: *ariram@example.com* (replace with your email)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AriRam29&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriRam29&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=…
-[11:15 AM, 8/11/2025] 📿: <h1 align="center">Hi 👋, I'm AriRam</h1>
+ <h1 align="center">Hi 👋, I'm AriRam</h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
