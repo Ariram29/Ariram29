@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Graduate, currently learning *Full Stack Development* at Next Wave Institute  
+- 🎓 BCA Graduate, currently learning *Full Stack Development* at Next Wave Institute    
 - 💻 Passionate about coding, problem-solving, and building web applications  
 - 🌱 Learning *Advanced React.js, API Security, and Deployment*  
 - ⚡ Fun fact: I love turning coffee into code ☕
